@@ -18,13 +18,19 @@ This is a simple React Native application built with Expo that demonstrates basi
 
 The initial screen of the application. It features a text input for the user to enter their age. Based on the input, it either denies access with a modal pop-up or navigates to the next screen.
 
-<img src="https://i.imgur.com/your-image-url-for-age-screen.png" alt="Age Validation Screen" width="300"/>
+<img src="../agevalidationscreen.png" alt="Age Validation Screen" width="300"/>
 
 ### 2. Movie Selection Screen
 
 Accessible only to users aged 21 or older. This screen displays a list of movies. The user can select a movie by typing its number into a text field. The selected movie is then displayed on the screen.
 
-<img src="https://i.imgur.com/your-image-url-for-movie-screen.png" alt="Movie Selection Screen" width="300"/>
+<img src="../movieselectionscreen.png" alt="Movie Selection Screen" width="300"/>
+
+## Screenshots
+
+<img src="../agevalidation.png" alt="Age Validation" width="300"/>
+<img src="../movieselection.png" alt="Movie Selection" width="300"/>
+<img src="../verification.png" alt="Verification" width="300"/>
 
 ## Getting Started
 
